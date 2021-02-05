@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423202388356",
+    "project_id": "testapp-c5367",
+    "storage_bucket": "testapp-c5367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423202388356:android:ee6264e632781851b3c5d1",
+        "android_client_info": {
+          "package_name": "itinbiz.progsi.mytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423202388356-u8als5766ohm8495fqs6jqh0mcalbrvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn4VO8s1GAcjOQ2yFYqr_DmW2pD5Tx_Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423202388356-u8als5766ohm8495fqs6jqh0mcalbrvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
